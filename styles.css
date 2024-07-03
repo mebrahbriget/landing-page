@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hero-section {
+    background-image: url('fashion image 2.jpg');
+    background-size: cover;
+    background-position: center;
+    color: rgb(43, 182, 62);
+    padding: 100px 0;
+}
+
+.hero-section .btn {
+    margin-top: 20px;
+}
+
+.benefits-section .fa-chart-line,
+
+.benefits-section .fa-palette,
+.benefits-section .fa-users {
+    color: #05d655;
+}
+
+.features-section {
+    padding: 50px 0;
+}
+
+.testimonials-section {
+    padding: 50px 0;
+}
+
+.cta-section {
+    padding: 50px 0;
+}
+
+.cta-section .btn {
+    margin-top: 20px;
+}
